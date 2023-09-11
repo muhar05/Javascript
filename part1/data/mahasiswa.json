@@ -1,0 +1,16 @@
+[
+    {
+        "nama": "Muhar",
+        "nrp": "647562040",
+        "email": "muhar@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Randy",
+        "nrp": "34949379",
+        "email": "Randy@gmail.com",
+        "jurusan": "Teknik Industri",
+        "idDosenWali": 2
+    }
+]
